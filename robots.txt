@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tech-fix-guide.github.io/tech-fix-guide/sitemap.xml
